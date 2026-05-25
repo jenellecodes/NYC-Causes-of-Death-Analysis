@@ -3,3 +3,4 @@ requests
 matplotlib
 jupyter
 python-dotenv
+
